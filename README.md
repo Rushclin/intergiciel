@@ -1,6 +1,8 @@
 # PROJET INTERGICIEL
 
-    Notre objectif est de pouvoir recuperer les fichiers aua format XML, lire le contenu via un ewebservice et affichier le fichier HTML resultant.
+    Notre objectif est de pouvoir recuperer les fichiers aua format XML,
+
+    lire le contenu via un ewebservice et affichier le fichier HTML resultant.
 
 ## Installation
 
@@ -9,13 +11,13 @@ Pour faire fonctioonner le projet en local chez vous, il suffit de
 1.  Cloner le projet via le lien :
 
     ```
-        git clone https://github.com/
+        git clone https://github.com/Rushclin/intergiciel
     ```
 
 2.  Executer les commandes suivantes
 
     ```
-        cd projet
+        cd intergiciel
     ```
 
 3.  Demarrer le projet via Live Server ou clicker simplement sur le fichier index.html
@@ -35,6 +37,7 @@ Pour faire fonctioonner le projet en local chez vous, il suffit de
 ## Credit
 
     1. DropZone JS
+    2. JQUERY
 
 ## Auteurs
 
