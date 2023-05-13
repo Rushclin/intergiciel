@@ -1,12 +1,12 @@
 # PROJET INTERGICIEL
 
-    Notre objectif est de pouvoir recuperer les fichiers aua format XML,
+    Notre objectif est de pouvoir recupérer les fichiers aux format XML,
 
-    lire le contenu via un ewebservice et affichier le fichier HTML resultant.
+    lire le contenu via un webservice et afficher le fichier HTML resultant.
 
 ## Installation
 
-Pour faire fonctioonner le projet en local chez vous, il suffit de
+Pour faire fonctionner le projet en local, il suffit de
 
 1.  Cloner le projet via le lien :
 
@@ -24,7 +24,7 @@ Pour faire fonctioonner le projet en local chez vous, il suffit de
 
 ## Voir le projet
 
-    Si le projet est demarré avec Live Server, visiter le lien
+    Si le projet est demarré avec Live Server, visiter le lien:
 
     ```
         http://localhost:5500
@@ -41,7 +41,7 @@ Pour faire fonctioonner le projet en local chez vous, il suffit de
 
 ## Auteurs
 
-Ce projet est le fruit du groupe 13 du ours d'intergiciel (Univ DSCHANG)
+Ce projet est le fruit du groupe 13 du cours d'intergiciel (Univ DSCHANG)
 
 1. Takam Rushclin,
 2. TCHEMBEU Leonel,
