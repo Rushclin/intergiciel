@@ -24,9 +24,14 @@
   </ExperiencesProfessionnelles>
   <Formations>
     <Formation>
-      <Diplome>BAC+4</Diplome>
-      <Etablissement>Université Paris-Saclay</Etablissement>
-      <DateObtention>2014-01-01</DateObtention>
+      <Diplome>Baccaleraut</Diplome>
+      <Etablissement>Lycée de Bafoussam</Etablissement>
+      <DateObtention>2018-01-01</DateObtention>
+    </Formation>
+     <Formation>
+      <Diplome>Licence</Diplome>
+      <Etablissement>Université de Dschang</Etablissement>
+      <DateObtention>2021-01-01</DateObtention>
     </Formation>
   </Formations>
 </CV>
