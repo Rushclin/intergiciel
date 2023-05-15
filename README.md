@@ -95,5 +95,5 @@ Ce projet est le fruit du groupe 13 du cours d'intergiciel (Univ DSCHANG)
 2. TCHEMBEU Leonel,
 3. TCHINDA Cyrile,
 4. NOKAM Christine,
-5. TAKAM Platini,
+5. TAKA Platini,
 6. FAYAM Alexandre.
